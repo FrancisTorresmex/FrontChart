@@ -1,5 +1,5 @@
 # FrontChart 🐝
-Ejemplo de uso de gráficas usando Chart.js junto a EntityFramework Frontend
+Ejemplo de uso de gráficas usando la libreria Chart.js (HTML, JS)
 
 
 ## Notas 🥓
